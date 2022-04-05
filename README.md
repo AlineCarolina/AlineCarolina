@@ -6,12 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1 align="center">Hi there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Aline 🤓</h1>
 </head>
-
 <body>
     <h2>About me</h2>
     <p>Curious since I was a child, I've always really enjoyed learning, science and technology especially. Today, at 22 years old, I am a Full Stack developer and I love what I do.</p>
     <p>A little less than a year ago I started my studies at <a href="https://www.betrybe.com/" target="blank">Trybe</a>, a programming school focused mainly on Hard and Soft-Skills demanded by the job market👩🏻‍🎓</p>
-
     <h2>Skills</h2>
     <div display="flex">
         <h3> Front-end </h3>
