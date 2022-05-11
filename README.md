@@ -57,6 +57,18 @@
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
         <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+        <h2><b>GitHub Stats</b></h2>
+        <table display="flex" align="center">
+        <tr><td>
+        <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlineCarolina&show_icons=true&theme=jolly" />
+        </a>
+        </td><td>
+        <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineCarolina&layout=compact&theme=jolly" />
+        </a>
+        </td></tr>
+        </table>
         <h2><b>Contacts</b></h2>
         <a href="https://www.linkedin.com/in/alinecarolina2022/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/></a>
         <a href="https://api.whatsapp.com/send?phone=5544988342697&text=Ola, vi seu perfil no GitHub!"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"/></a>
