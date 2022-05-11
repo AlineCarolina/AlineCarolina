@@ -59,10 +59,8 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
         <h2><b>Contacts</b></h2>
         <a href="https://www.linkedin.com/in/alinecarolina2022/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/></a>
-        <a href="https://api.whatsapp.com/send?phone=5544988342697&text=Ola, estou entrando em contato por"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"/></a>
+        <a href="https://api.whatsapp.com/send?phone=5544988342697&text=Ola, vi seu perfil no GitHub!"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"/></a>
         <a href="mailto:eualine2017@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"/></a>
     </div>
-    <h2>Contacts</h2>
-    <a href="https://www.linkedin.com/in/alinecarolina2022/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </body>
 </html>
