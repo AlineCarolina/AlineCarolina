@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 4%>, I'm <b>Aline</b> 🤓</h1>
+<h1 align="center">Hi there<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 6%>, I'm <b>Aline</b> 🤓</h1>
 <h2><b>About me</b></h2>
 <p>Curious since I was a child, I've always really enjoyed learning, science and technology especially. Today, at 22 years old, I am a Full Stack developer and I love what I do. ❤️</p>
 <p>A little less than a year ago I started my studies at <a href="https://www.betrybe.com/" target="blank">Trybe</a>, a programming school focused mainly on Hard and Soft-Skills demanded by the job market. 👩🏻‍🎓</p>
