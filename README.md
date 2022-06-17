@@ -2,7 +2,7 @@
 <h2><b>About me</b></h2>
 <p>Curious since I was a child, I've always really enjoyed learning, science and technology especially. Today, at 22 years old, I am a Full Stack developer and I love what I do. ❤️</p>
 <p>A little less than a year ago I started my studies at <a href="https://www.betrybe.com/">Trybe</a>, a programming school focused mainly on Hard and Soft-Skills demanded by the job market. 👩🏻‍🎓</p>
-<p>To know more about me, visit my portfolio <a href="https://www.betrybe.com/">here</a></p>
+<p>To know more about me, visit my portfolio <a href="https://alinecarolina.github.io/">here</a></p>
 <h2><b>Skills</b></h2>
 <p>I like to create, use my creativity and knowledge to program from scratch. For this reason I like both front-end (I love design and css) and back-end (where the magic really happens). 💻
 </p>
